@@ -2,9 +2,9 @@
 
 This repo is for the official website of Work Bunny at https://workbunny.co. 
 
-It contains a React + TypeScript + Vite web app. Currently, it points to a  'coming soon' landing page to be added to a waitlist for when we launch the web and mobile app which are currently in development. 
+It contains a React + TypeScript + Vite web app. Currently, it points to a  *coming soon* landing page to be added to a waitlist for when we launch the web and mobile app which are currently in development. 
 
-To gain access and possibly collaborate on the project, visit the official website and fill the 'Join The Team' form and we'll get back to you soon.
+To gain access and possibly collaborate on the project, visit the official website and fill the *Join The Team* form and we'll get back to you soon.
 
 ## Getting started
 
