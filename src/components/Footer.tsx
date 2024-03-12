@@ -32,9 +32,9 @@ export const Footer = ({ ...p }) => {
   const date = new Date();
 
   const data: FooterData[] = [
-    { icon: <Github />, link: "" },
-    { icon: <Linkedin />, link: "" },
-    { icon: <Twitter />, link: "" },
+    { icon: <Github />, link: "https://github.com/work-bunny" },
+    { icon: <Linkedin />, link: "https://www.linkedin.com/company/work-bunny" },
+    { icon: <Twitter />, link: "https://twitter.com/work_bunny" },
   ];
 
   return (

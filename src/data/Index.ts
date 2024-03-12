@@ -1,6 +1,6 @@
 export const content = {
   title:
-    "Connecting job seekers, people in the interview process, and professionals who've landed roles.",
+    "Connecting job seekers, people in interview processes, and professionals who've landed roles.",
   text_start: " Discover",
   span_start: " Work Bunny ",
   text_end:
