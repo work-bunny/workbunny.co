@@ -23,8 +23,8 @@ export const App = () => {
     if (form.current) {
       emailjs
         .sendForm(
-          "service_6hyw9wp",
-          "template_hwuptll",
+          "service_bcy2zny",
+          "template_ogbbr6e",
           form.current,
           "CkfjlBXlL7vmevlMk"
         )
