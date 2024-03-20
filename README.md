@@ -18,4 +18,4 @@ To gain access and possibly collaborate on the project, visit the official websi
 
 # EmailJS
 
-Email is being in sent using a simple set up with EmailJS. To set it up in your local repo open an account at https://www.emailjs.com and generate a public key, service id and template id and replace the credentails in the `sendForm()` method in the `App.tsx`. To learn more about exposing your EmailJS credentials such as your public key, read up on https://www.emailjs.com/docs/faq/is-it-okay-to-expose-my-public-key 
+Email is being in sent using a simple set up with EmailJS. To set it up in your local repo open an account at https://www.emailjs.com and generate a public key, service id and template id and replace the credentails in the `sendForm()` method in the `App.tsx`. To learn more about exposing your EmailJS credentials such as your public key, read up on https://www.emailjs.com/docs/faq/is-it-okay-to-expose-my-public-key.
