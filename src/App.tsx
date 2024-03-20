@@ -61,7 +61,7 @@ export const App = () => {
   return (
     <Flex
       p={{ base: "0 15px", md: 0, lg: 0 }}
-      h={{ base: "100%", md: "100vh", lg: "100vh" }}
+      minH={{ base: "100%", md: "100vh", lg: "100vh" }}
       direction={{ base: "column", md: "row", lg: "row" }}
     >
       <Flex
